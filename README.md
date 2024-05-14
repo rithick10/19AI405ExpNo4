@@ -1,7 +1,7 @@
 ## ExpNo 4 : Implement A* search algorithm for a Graph
 
-## Name: S.Aishwarya
-## Register Number: 212222100003
+## Name: B.Allen Steve Bernard
+## Register Number: 212221220004
 
 ## Aim:
 
