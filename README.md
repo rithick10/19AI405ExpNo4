@@ -1,7 +1,7 @@
 ## ExpNo 4 : Implement A* search algorithm for a Graph
 
-## Name: B.Allen Steve Bernard
-## Register Number: 212221220004
+## Name: Rithick S P
+## Register Number: 212221220043
 
 ## Aim:
 
