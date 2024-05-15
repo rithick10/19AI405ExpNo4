@@ -1,6 +1,6 @@
 ## ExpNo 4 : Implement A* search algorithm for a Graph
 
-## Name: B.Allen Steve Bernard
+## Name: B.Allen Steve Bernar
 ## Register Number: 212221220004
 
 ## Aim:
